@@ -1,4 +1,4 @@
-# 🧱 C++ Module 02
+# C++ Module 02
 
 This repository contains **Module 02** of the 42 C++ Piscine.  
 It focuses on mastering **class behavior**, especially in memory-sensitive contexts: copy constructors, assignment operators, and destructors.
